@@ -15,5 +15,7 @@ data
 stopwords
 *ans*
 *res*
-/hw4/ub_sample_data.csv
+/ClustersAnalysis_GirvanNewman/ub_sample_data.csv
 /checkpoint
+StreamingAnalysis/checkpoint/
+inf553-python.iml
